@@ -836,7 +836,7 @@ footer {
     <div>
         <p>&copy; 2024 Flutedu</p>
     </div>
-</div>
+
 
 
 
