@@ -803,8 +803,8 @@ footer {
             </div>
 
 
-        </div>
-    </div>
+        
+    
 <div class="footer">
     <div>
         <a href="#">Terms Of Service</a>
