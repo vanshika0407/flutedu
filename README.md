@@ -774,26 +774,26 @@ footer {
                 <img src="C:\Users\ritik\OneDrive\Pictures\Screenshots\Screenshot 2024-05-29 120418.png" alt="VIT University">
                 <p>"I can't express how much this website has simplified my university search process. The user-friendly interface and comprehensive filters allowed me to find the perfect courses tailored to my interests and career goals. The student reviews and ratings were incredibly insightful and helped me make an informed decision. Thank you for making such a stressful process so much easier!"</p>
                 <p class="author">Ritik nehra,<br>Student if VIT University(India)</p>
-            
+            </div>
 
             <div class="feedback-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VXUNs5iK8jbN-PsyqDcNoqML3pVOtoSR3A&s" alt="Harvard University">
                <p>"This website is a game-changer for anyone looking to find the right university and courses. The detailed information and extensive database made it easy to compare different options. I particularly loved the personalized recommendations and the real-life student experiences shared here. It's like having a mentor guide you through the entire process. Highly recommended!"</p>
                 <p class="author">John F. Kennedy,<br>Sudent of Harvard University(US) </p>
-            
+            </div>
 
             <div class="feedback-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtf-73dWDUzOJgKC_m8cAuFugzhRDT6-lC9A&s" alt="The Australia National University">
                 <p>"Finding the right course and university was daunting until I discovered this website. The layout is intuitive, and the search functionality is top-notch. What sets this site apart is the wealth of firsthand reviews from current students, which provided valuable insights that brochures and official websites often miss. Thanks to this platform, I feel confident and excited about my academic future!"
 </p>
                 <p class="author">Hayes,<br>Student of The Australia National University(Australia)</p>
-            
+          </div>  
 
 <div class="feedback-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawxYOWxeOPdnY5euBsuQdMYTrpiLUj0usGw&s" alt="Seoul National University">
                 <p>"This website has been an invaluable resource during my university search. The detailed course descriptions and up-to-date information on each institution made it easy to compare my options. I particularly appreciated the honest feedback from other students, which gave me a clearer picture of what to expect. It’s a must-visit for anyone serious about their education."</p>
                 <p class="author">Hwa Young,<br>Sudent of Seoul National University(Korea) </p>
-            
+            </div>
 
 <div class="feedback-item">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwYj1aBgf3YVfeBKx1hNFFB4Sgd9GOIbcLw&s" alt="University of Alberta">
@@ -801,7 +801,9 @@ footer {
 </p>
                 <p class="author">Mia,<br>Sudent of University of Alberta(Canada) </p>
             
-
+</div>
+</div>
+</div>
 
        
     
@@ -809,18 +811,18 @@ footer {
     <div>
         <a href="#">Terms Of Service</a>
         <a href="#">Privacy Policy</a>
-    
+    </div>
     <div>
         <a href="https://www.instagram.com/flutedu_07?utm_source=qr&igsh=MTB4ZTIrbno5amVrMw==">Contact Us</a>
         <a href="#">About Us</a>
         <a href="#">Security</a>
-    
+    </div>
     <div class="feedback">
         <form action="connect.php" method="post">
             <textarea name="feedback" placeholder="Enter your feedback here"></textarea>
             <input type="submit" value="Submit">
         </form>
-    
+    </div>
     <footer>
         <div class="social-icons">
             <a href="https://www.instagram.com/flutedu_07?utm_source=qr&igsh=MTB4ZTIrbno5amVrMw==" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwH--J-ZMUg8puNfUxE6YXQi3yVHuAORDxow&s" ></a>
@@ -828,15 +830,15 @@ footer {
             <a href="https://x.com/flutedu07?t=S76xoPuG-5cXFowmQf1Lnw&s=09" target="_blank"><img src="https://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_1280.jpg" ></a>
                        <a href="https://www.youtube.com/@flutedu07" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vjqOGyOmZ4N4Atj0Wrujl7yP-_2iMDxzTg&s" ></a>
             <a href="https://www.pinterest.com/flutedu07" target="_blank"><img src="https://static-00.iconduck.com/assets.00/pinterest-icon-2048x2048-d7p0u7c5.png" ></a>
-        
+        </div>
     </footer>
 
     <!-- Add Font Awesome CDN link -->
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <div>
         <p>&copy; 2024 Flutedu</p>
-    
-
+    </div>
+</div>
 
 
 
