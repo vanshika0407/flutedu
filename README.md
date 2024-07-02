@@ -803,8 +803,8 @@ footer {
             </div>
 
 
-        
-    
+       </div> 
+    </div>
 <div class="footer">
     <div>
         <a href="#">Terms Of Service</a>
@@ -835,8 +835,8 @@ footer {
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <div>
         <p>&copy; 2024 Flutedu</p>
-    </div>
-
+    
+</div>
 
 
 
