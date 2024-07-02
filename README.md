@@ -766,7 +766,7 @@ footer {
             document.getElementById('courses-modal').style.display = 'flex';
         }
     </script>
-<br></br>
+<br>
 
 <div class="feedback-container">
                <div class="feedback">
