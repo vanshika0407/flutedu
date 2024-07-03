@@ -447,8 +447,8 @@ footer {
                     <div class="chatbox-message" id="chatbox-message">
                         <p>Click on the chatbox ---></p>
                     </div>
-                </div>
-                </div>
+                
+                
             </div>
         </div>
      </div>
