@@ -450,7 +450,7 @@ footer {
                 </div>
             </div>
         </div>
-    </div>
+    
     <div id="browse-courses-container" class="browse-courses-container" style="display: none;">
         <h1>Browse by Country</h1>
         <div class="country-grid">
