@@ -448,7 +448,7 @@ footer {
                         <p>Click on the chatbox ---></p>
                     </div>
                 
-                
+               </div> 
             </div>
         </div>
      </div>
