@@ -609,7 +609,7 @@ footer {
                 <h2 id="country-name"></h2>
                 <div id="courses-grid" class="courses-grid"></div>
             </div>
-        
+        </div>
     </div>
     <script>
         document.getElementById('help').addEventListener('change', function() {
