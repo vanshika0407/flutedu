@@ -680,9 +680,9 @@ footer {
             <div class="modal-content">
                 <span class="close" onclick="closeModal()">&times;</span>
                 <h2 id="country-name"></h2>
-                <div id="courses-grid" class="courses-grid"></div>
+                <div id="courses-grid" class="courses-grid">
             </div>
-        
+        </div>
     </div>
 
     <script>
