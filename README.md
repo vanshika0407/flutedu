@@ -447,7 +447,7 @@ footer {
                     <div class="chatbox-message" id="chatbox-message">
                         <p>Click on the chatbox ---></p>
                     </div>
-                    
+                </div>
                 </div>
             </div>
         </div>
@@ -675,7 +675,7 @@ footer {
             // Close modal logic
         }
     </script>
-<br><br>
+
 
         <div id="courses-modal" class="modal">
             <div class="modal-content">
