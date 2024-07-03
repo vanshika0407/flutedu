@@ -771,9 +771,9 @@ footer {
 <div class="feedback-container">
                <div class="feedback">
             <div class="feedback-item">
-                <img src="C:\Users\ritik\OneDrive\Pictures\Screenshots\Screenshot 2024-05-29 120418.png" alt="VIT University">
+                <img src="https://www.catalyser.in/public/img/blog/bitcblog1.jpg" alt="BITs pilani University">
                 <p>"I can't express how much this website has simplified my university search process. The user-friendly interface and comprehensive filters allowed me to find the perfect courses tailored to my interests and career goals. The student reviews and ratings were incredibly insightful and helped me make an informed decision. Thank you for making such a stressful process so much easier!"</p>
-                <p class="author">Ritik nehra,<br>Student if VIT University(India)</p>
+                <p class="author">Ritik nehra,<br>Student of BITs pilani University(India)</p>
             </div>
 
             <div class="feedback-item">
