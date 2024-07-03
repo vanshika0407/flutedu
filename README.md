@@ -674,7 +674,7 @@ footer {
             // Close modal logic
         }
     </script>
-
+<br><br>
 
         <div id="courses-modal" class="modal">
             <div class="modal-content">
