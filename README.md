@@ -401,7 +401,7 @@ footer {
         </div>
         <div class="form-background">
             <div class="form-content">
-                <img src="https://img.freepik.com/premium-photo/girl-with-book-her-lap-is-sitting-library-books_662214-67065.jpg?w=360" alt="Sitting Girl" class="sitting-girl">
+                <img src="https://au.pinterest.com/pin/library-girl--306807793383407948/.jpg" alt="Sitting Girl" class="sitting-girl">
                 <div class="signup-form">
                     <h1>Sign Up Form</h1>
                     <form id="signup-form" onsubmit="startCountdown(event)">
@@ -468,7 +468,7 @@ footer {
                 <div class="overlay">UK</div>
             </div>
             <div class="country-box" onclick="showCourseForm('Australia')">
-                <img src="https://www.umultirank.org/export/sites/default/.galleries/generic-images/Others/Winter-Calendar/why-should-I-study-in-Sydney.jpg_1079324579.jpg" alt="Australia">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkCH654BX0xrV2-1XR8i3og-pG2bLcGCdAX_zXw0vK49PI4b1NI0BV7g&s=10.jpg" alt="Australia">
                 <div class="overlay">Australia</div>
             </div>
             <div class="country-box" onclick="showCourseForm('Korea')">
