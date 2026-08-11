@@ -401,7 +401,7 @@ footer {
         </div>
         <div class="form-background">
             <div class="form-content">
-                <img src="https://au.pinterest.com/pin/library-girl--306807793383407948/.jpg" alt="Sitting Girl" class="sitting-girl">
+                <img src="https://i.pinimg.com/736x/c6/9f/ee/c69fee5bcf21d5f1c9224045987f5b55.jpg" alt="Sitting Girl" class="sitting-girl">
                 <div class="signup-form">
                     <h1>Sign Up Form</h1>
                     <form id="signup-form" onsubmit="startCountdown(event)">
